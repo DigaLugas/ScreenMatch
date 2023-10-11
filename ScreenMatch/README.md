@@ -1,15 +1,17 @@
-![thumbnail-Formação Java (4)](https://user-images.githubusercontent.com/66698429/226751112-f79aaa28-16c9-4561-8a15-0ac62ec9cb44.png)
+Projeto de Consumo de API de Filmes em Java
+Este é um projeto simples em Java que demonstra como consumir uma API de filmes e utiliza a biblioteca GSON para manipular os dados JSON retornados pela API.
 
+Pré-requisitos
+Java Development Kit (JDK): Certifique-se de ter o JDK instalado na sua máquina. Você pode baixá-lo aqui https://www.oracle.com/java/technologies/javase-downloads.html 
+Como Executar
+Clone o Repositório:
 
-# Java: consumindo uma API, gravando arquivos e lidando com erros
+bash
 
-Projeto desenvolvido no quarto curso da formação Java da Alura
+git clone https://github.com/DigaLugas/ScreenMatch.git
 
+GSON: Uma biblioteca para a serialização/desserialização de objetos Java para/desde JSON. Você pode encontrar mais informações aqui https://github.com/google/gson
 
-## 🔨 Objetivos do projeto
+Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-- Aprender a consumir uma API HTTP em Java;
-- Entender como receber e converter dados no formato JSON; 
-- Utilizar a biblioteca externa GSON para fazer serialização e desserialização de dados;
-- Lidar com erros e tratar exceções;
-- Conhecer o pacote java.io para manipulação de arquivos.
